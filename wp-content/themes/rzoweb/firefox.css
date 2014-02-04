@@ -1,0 +1,10 @@
+/* CSS Document */
+@-moz-document url-prefix() {
+    #audio_player #download {
+		margin-top:6px;
+	}
+	
+	#audio_player #audio{
+		margin-top:-10px;
+	}
+}
