@@ -1,0 +1,24 @@
+{
+  "name": "angular-audio-player",
+  "version": "0.0.10",
+  "main": "angular-audio-player.min.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "angular": "1.0.6"
+  },
+  "homepage": "https://github.com/minsh/angular-audio-player",
+  "_release": "0.0.10",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.10",
+    "commit": "27496c1d920e915ef2cffa60776455f663edb128"
+  },
+  "_source": "git://github.com/minsh/angular-audio-player.git",
+  "_target": "~0.0.10",
+  "_originalSource": "angular-audio-player",
+  "_direct": true
+}
